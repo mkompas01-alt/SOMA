@@ -1,6 +1,6 @@
 # SOMA
 
-Implementácia algoritmu Self-Organizing Migrating Algorithm v Pythone podľa prednášky a schémy SOMA.
+Implementácia algoritmu Self-Organizing Migrating Algorithm v Pythone 
 
 ## Verzie
 
